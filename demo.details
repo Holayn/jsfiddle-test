@@ -1,0 +1,14 @@
+/*
+---
+name: Name of the Demo
+description: Some description, please keep it in one line
+authors:
+  - kai
+resources:
+  - https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.2/tailwind.min.css
+  - https://fonts.googleapis.com/css2?family=Roboto&display=swap
+normalize_css: no
+---
+*/
+
+<p>hi</p>
