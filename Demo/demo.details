@@ -8,7 +8,6 @@ resources:
   - https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.2/tailwind.min.css
   - https://fonts.googleapis.com/css2?family=Roboto&display=swap
 normalize_css: no
-load_type: d
 ---
 */
 
